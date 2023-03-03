@@ -15,7 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Sumedh Saurabh.
+          Software Engineer.
+          Photographer.
+          Traveler.
         </a>
       </header>
     </div>
