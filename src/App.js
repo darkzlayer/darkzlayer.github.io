@@ -8,12 +8,7 @@ function Bio() {
       <h1>
         Sumedh Saurabh
       </h1>
-      <a
-        className="App-link"
-        href="https://reactjs.org"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
+      <a>
         Software Engineer.
         Photographer.
         Traveler.
