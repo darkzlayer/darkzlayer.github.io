@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+// import logo from './logo.svg'; 
+import profile from './profile.jpg';
 import './App.css';
 
 function Bio() {
   return (
     <div>
-      <img src={logo} className="App-logo" alt="logo" />
+      <img src={profile} className="App-logo" alt="logo" />
       <h1>
         Sumedh Saurabh
       </h1>
@@ -15,7 +16,6 @@ function Bio() {
       </a>
     </div>
   )
-  
 }
 
 export default function App() {
